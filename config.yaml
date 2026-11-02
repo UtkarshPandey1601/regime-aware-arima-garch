@@ -1,0 +1,12 @@
+start_date: "2010-01-01"
+end_date: "2026-10-31"     
+tickers:
+  index: "^NSEI"
+  vix: "^INDIAVIX"
+  stocks:
+    banking: "ICICIBANK.NS"
+    it: "TCS.NS"
+    energy: "RELIANCE.NS"
+    auto: "MARUTI.NS"
+    fmcg: "HINDUNILVR.NS"
+seed: 42

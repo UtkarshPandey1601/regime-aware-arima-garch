@@ -1,0 +1,59 @@
+{
+  "^NSEI": {
+    "file": "NSEI.csv",
+    "rows": 4133,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "82fa397cdf84c25d0d2bac685153ea629f90cd0ecabc4418bb1257acb278d2ff",
+    "issues": []
+  },
+  "^INDIAVIX": {
+    "file": "INDIAVIX.csv",
+    "rows": 4132,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "53181ec53123e367c7088e9100ead228f2553e54da3eb2f523209d06dd7f98c7",
+    "issues": []
+  },
+  "ICICIBANK.NS": {
+    "file": "ICICIBANK.NS.csv",
+    "rows": 4154,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "10e808291220bc39fe44d35ab85b78160401c5ab800c82c39aad7ecdf67e8929",
+    "issues": []
+  },
+  "TCS.NS": {
+    "file": "TCS.NS.csv",
+    "rows": 4154,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "7db843285e503b9538f208bca4d4a72b11f8f52ec2071993be148c924b052ff0",
+    "issues": []
+  },
+  "RELIANCE.NS": {
+    "file": "RELIANCE.NS.csv",
+    "rows": 4154,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "e18abab17157f9570209cee6296ff884c7821def0b757045f0ab67a1c39c702b",
+    "issues": []
+  },
+  "MARUTI.NS": {
+    "file": "MARUTI.NS.csv",
+    "rows": 4154,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "c0660f83a256407c5afe3a3c71d5e16ac2d9dc806a70bc3bcbd9321c509d631c",
+    "issues": []
+  },
+  "HINDUNILVR.NS": {
+    "file": "HINDUNILVR.NS.csv",
+    "rows": 4154,
+    "first_date": "2010-01-04",
+    "last_date": "2026-10-30",
+    "sha256": "358d3ecf9f09829360a232214c1078b0d987a65f08c8a0de97b8aee2e6f580a0",
+    "issues": []
+  },
+  "_downloaded_on": "2026-11-02"
+}
