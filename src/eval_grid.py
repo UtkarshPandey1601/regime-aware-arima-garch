@@ -93,8 +93,7 @@ sm = R.assign(better=R.DM > 0).groupby(["family", "sample"]).apply(
                          "holm_sig_better": int(((g.p_holm < .05) & g.better).sum())}))
 print(sm)
 print("\nHigh-VIX / calm day counts per series:")
-print(R[(R.family == "RQ2") & (R.reference == "GARCH-normal")].pivot(index="series", columns="sample", values="n"))
-
+print(R[(R.family == "RQ2") & (R.reference == "GARCH-normal") & (R.challenger == "GJR-normal")].pivot(index="series", columns="sample", values="n"))
 # parameter summaries across refits
 prow = []
 for t in names:
