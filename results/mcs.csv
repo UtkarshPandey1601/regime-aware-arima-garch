@@ -1,0 +1,101 @@
+family,series,model,p_mcs,in_set
+12 specs,NSEI,GARCH-normal,0.88,True
+12 specs,NSEI,GARCH-t,0.88,True
+12 specs,NSEI,GARCH-skewt,0.88,True
+12 specs,NSEI,GJR-normal,1.0,True
+12 specs,NSEI,GJR-t,0.88,True
+12 specs,NSEI,GJR-skewt,0.88,True
+12 specs,NSEI,EGARCH-normal,0.88,True
+12 specs,NSEI,EGARCH-t,0.826,True
+12 specs,NSEI,EGARCH-skewt,0.878,True
+12 specs,NSEI,APARCH-normal,0.88,True
+12 specs,NSEI,APARCH-t,0.88,True
+12 specs,NSEI,APARCH-skewt,0.88,True
+regime,NSEI,pooled,1.0,True
+regime,NSEI,A-hard,0.088,False
+regime,NSEI,A-soft,0.088,False
+12 specs,ICICIBANK.NS,GARCH-normal,0.372,True
+12 specs,ICICIBANK.NS,GARCH-t,0.852,True
+12 specs,ICICIBANK.NS,GARCH-skewt,0.744,True
+12 specs,ICICIBANK.NS,GJR-normal,0.372,True
+12 specs,ICICIBANK.NS,GJR-t,0.852,True
+12 specs,ICICIBANK.NS,GJR-skewt,0.852,True
+12 specs,ICICIBANK.NS,EGARCH-normal,0.388,True
+12 specs,ICICIBANK.NS,EGARCH-t,0.938,True
+12 specs,ICICIBANK.NS,EGARCH-skewt,0.852,True
+12 specs,ICICIBANK.NS,APARCH-normal,0.372,True
+12 specs,ICICIBANK.NS,APARCH-t,1.0,True
+12 specs,ICICIBANK.NS,APARCH-skewt,0.938,True
+regime,ICICIBANK.NS,pooled,0.666,True
+regime,ICICIBANK.NS,A-hard,1.0,True
+regime,ICICIBANK.NS,A-soft,0.666,True
+regime,ICICIBANK.NS,B-hard,0.334,True
+regime,ICICIBANK.NS,B-soft,0.506,True
+12 specs,TCS.NS,GARCH-normal,0.96,True
+12 specs,TCS.NS,GARCH-t,0.822,True
+12 specs,TCS.NS,GARCH-skewt,0.822,True
+12 specs,TCS.NS,GJR-normal,1.0,True
+12 specs,TCS.NS,GJR-t,0.822,True
+12 specs,TCS.NS,GJR-skewt,0.822,True
+12 specs,TCS.NS,EGARCH-normal,0.822,True
+12 specs,TCS.NS,EGARCH-t,0.822,True
+12 specs,TCS.NS,EGARCH-skewt,0.822,True
+12 specs,TCS.NS,APARCH-normal,0.822,True
+12 specs,TCS.NS,APARCH-t,0.822,True
+12 specs,TCS.NS,APARCH-skewt,0.822,True
+regime,TCS.NS,pooled,0.944,True
+regime,TCS.NS,A-hard,0.002,False
+regime,TCS.NS,A-soft,0.002,False
+regime,TCS.NS,B-hard,1.0,True
+regime,TCS.NS,B-soft,0.944,True
+12 specs,RELIANCE.NS,GARCH-normal,0.744,True
+12 specs,RELIANCE.NS,GARCH-t,0.81,True
+12 specs,RELIANCE.NS,GARCH-skewt,0.81,True
+12 specs,RELIANCE.NS,GJR-normal,0.81,True
+12 specs,RELIANCE.NS,GJR-t,0.97,True
+12 specs,RELIANCE.NS,GJR-skewt,0.948,True
+12 specs,RELIANCE.NS,EGARCH-normal,0.81,True
+12 specs,RELIANCE.NS,EGARCH-t,1.0,True
+12 specs,RELIANCE.NS,EGARCH-skewt,0.97,True
+12 specs,RELIANCE.NS,APARCH-normal,0.81,True
+12 specs,RELIANCE.NS,APARCH-t,0.744,True
+12 specs,RELIANCE.NS,APARCH-skewt,0.702,True
+regime,RELIANCE.NS,pooled,0.706,True
+regime,RELIANCE.NS,A-hard,1.0,True
+regime,RELIANCE.NS,A-soft,0.706,True
+regime,RELIANCE.NS,B-hard,0.658,True
+regime,RELIANCE.NS,B-soft,0.706,True
+12 specs,MARUTI.NS,GARCH-normal,0.758,True
+12 specs,MARUTI.NS,GARCH-t,0.758,True
+12 specs,MARUTI.NS,GARCH-skewt,0.758,True
+12 specs,MARUTI.NS,GJR-normal,0.758,True
+12 specs,MARUTI.NS,GJR-t,0.758,True
+12 specs,MARUTI.NS,GJR-skewt,1.0,True
+12 specs,MARUTI.NS,EGARCH-normal,0.758,True
+12 specs,MARUTI.NS,EGARCH-t,0.758,True
+12 specs,MARUTI.NS,EGARCH-skewt,0.758,True
+12 specs,MARUTI.NS,APARCH-normal,0.758,True
+12 specs,MARUTI.NS,APARCH-t,0.758,True
+12 specs,MARUTI.NS,APARCH-skewt,0.758,True
+regime,MARUTI.NS,pooled,0.662,True
+regime,MARUTI.NS,A-hard,0.618,True
+regime,MARUTI.NS,A-soft,0.034,False
+regime,MARUTI.NS,B-hard,0.662,True
+regime,MARUTI.NS,B-soft,1.0,True
+12 specs,HINDUNILVR.NS,GARCH-normal,0.732,True
+12 specs,HINDUNILVR.NS,GARCH-t,0.778,True
+12 specs,HINDUNILVR.NS,GARCH-skewt,0.778,True
+12 specs,HINDUNILVR.NS,GJR-normal,0.672,True
+12 specs,HINDUNILVR.NS,GJR-t,0.778,True
+12 specs,HINDUNILVR.NS,GJR-skewt,0.732,True
+12 specs,HINDUNILVR.NS,EGARCH-normal,0.318,True
+12 specs,HINDUNILVR.NS,EGARCH-t,0.778,True
+12 specs,HINDUNILVR.NS,EGARCH-skewt,0.778,True
+12 specs,HINDUNILVR.NS,APARCH-normal,0.57,True
+12 specs,HINDUNILVR.NS,APARCH-t,0.778,True
+12 specs,HINDUNILVR.NS,APARCH-skewt,1.0,True
+regime,HINDUNILVR.NS,pooled,0.176,True
+regime,HINDUNILVR.NS,A-hard,0.176,True
+regime,HINDUNILVR.NS,A-soft,0.168,True
+regime,HINDUNILVR.NS,B-hard,1.0,True
+regime,HINDUNILVR.NS,B-soft,0.574,True
